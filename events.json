@@ -1,0 +1,15 @@
+{
+  "events": [
+    {
+      "id": "example-tourney-2026",
+      "name": "Example Tourney",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-13",
+      "city": "Vienna",
+      "country": "AT",
+      "weapons": ["longsword"],
+      "url": "https://example.com",
+      "region": "europe"
+    }
+  ]
+}
